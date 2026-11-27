@@ -1,0 +1,17 @@
+{
+  "version": "0.3.0",
+  "tag": "v0.3.0",
+  "published": "2026-11-27T04:05:27-08:00",
+  "notes": "新增自动更新（以后有新版本会自动提示）；回看页导出/导入；实时页一键录制保存全部信息；修正电极图在小屏幕上的重叠",
+  "launcher": 1,
+  "package": {
+    "path": "releases/neurobench-0.3.0.zip",
+    "sha256": "5a86254345c9d70cabeec0213333f784aac3733312b2849a4487d7b35807dece",
+    "size": 130533
+  },
+  "installer": {
+    "path": "releases/NeuroBench_v0.3.0.zip",
+    "sha256": "6b646c0ca45f9c22ffddd29bc6a8c67d87ccbcc2790d44a7a102628bc19cdabb"
+  },
+  "requirements_sha256": "4fc812cd127b258d52aae998991bc15780ab7e9ca94461b6bed755f109dc2b64"
+}
