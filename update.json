@@ -1,17 +1,17 @@
 {
-  "version": "0.3.1",
-  "tag": "v0.3.1",
-  "published": "2026-11-27T04:30:12-08:00",
-  "notes": "眨眼检测（看耳后通道，实时显示次/分）；电极贴合判断收紧，并给出逐个电极的调整提示；心率只用红光通道、多通道互相核对，不再乱跳，心率变异不可信时不显示；回看时自动剔除眨眼、肌电、晃动片段；录完填 10 秒小问卷；电源干扰强时提醒拔电源；修正依赖重复检查",
+  "version": "0.4.0",
+  "tag": "v0.4.0",
+  "published": "2026-11-27T05:10:12-08:00",
+  "notes": "新增「冥想」页：先校准 1 分钟，再用雨声和鸟叫实时反馈平静程度（可选脑电、心率或身体静止），结束后显示平静占比、鸟叫、回到平静次数，并统计连续天数；连接时可选全功能、均衡、省电三种采集模式；顶部显示电量还能用多久，电量低于 15% 提醒、低于 5% 自动保存录制",
   "launcher": 1,
   "package": {
-    "path": "releases/neurobench-0.3.1.zip",
-    "sha256": "8429a09991ae75ffd96aca65e5805816c75483ea04c76037b1c00ba4e0dacdd5",
-    "size": 136939
+    "path": "releases/neurobench-0.4.0.zip",
+    "sha256": "1660918aefb4bbba6f4def6c3896d1e4c937b0aaa5dfc6dce122a1caac3bfac9",
+    "size": 146718
   },
   "installer": {
-    "path": "releases/NeuroBench_v0.3.1.zip",
-    "sha256": "e73c3e4f53cbe348ccf03b4276a9ef308528e32e61a6892ded59f7d5522af2ea"
+    "path": "releases/NeuroBench_v0.4.0.zip",
+    "sha256": "dedd458055d5ab983913a5250da2960749acb8c6343f574052738c4dd87c29ff"
   },
   "requirements_sha256": "4fc812cd127b258d52aae998991bc15780ab7e9ca94461b6bed755f109dc2b64"
 }
