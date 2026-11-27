@@ -1,17 +1,17 @@
 {
-  "version": "0.6.1",
-  "tag": "v0.6.1",
-  "published": "2026-11-27T05:33:07-08:00",
-  "notes": "程序出错时自动记录日志并在顶部提示；右上角「···」新增「打包诊断信息」（只含日志和录制说明，不含脑电数据，出问题时发给 Claude）和「关于和更新记录」",
+  "version": "0.7.0",
+  "tag": "v0.7.0",
+  "published": "2026-11-27T05:41:33-08:00",
+  "notes": "新增「过夜睡眠」录制方案：录制期间电脑不会自动休眠，不是省电模式时会提醒；早上结束后自动生成粗略的睡眠报告（清醒、浅睡、深睡、可能的 REM，入睡用时、醒来次数、睡眠效率），并注明未经医学验证；长时间录制改用 30 秒分段，加载更快",
   "launcher": 1,
   "package": {
-    "path": "releases/neurobench-0.6.1.zip",
-    "sha256": "cf4a0b54807dab86e210d6b9dd1cf0ff03c20f745df9f763b657c890d9e31d24",
-    "size": 168331
+    "path": "releases/neurobench-0.7.0.zip",
+    "sha256": "c8b0816b29f5bf98822fc6e483462a0aa1110d8f740e0912cc58fda5148e604c",
+    "size": 173493
   },
   "installer": {
-    "path": "releases/NeuroBench_v0.6.1.zip",
-    "sha256": "34a7fb5ee187d7af9ba19a2b3a5a50cc8ba6ec150ce7a7baf424474d1e1f916b"
+    "path": "releases/NeuroBench_v0.7.0.zip",
+    "sha256": "52042ea659e69f5a77641bc849b5f3fbe88c4dabc5d9628164e122de111daa54"
   },
   "requirements_sha256": "4fc812cd127b258d52aae998991bc15780ab7e9ca94461b6bed755f109dc2b64"
 }
