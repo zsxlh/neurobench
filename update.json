@@ -1,17 +1,17 @@
 {
-  "version": "0.5.0",
-  "tag": "v0.5.0",
-  "published": "2026-11-27T05:21:13-08:00",
-  "notes": "新增「心理状态测评」方案（约 8 分钟：睁眼、闭眼、心算、恢复、听音乐），结束后自动生成报告：放松反应、心算时的心率和脑波变化、恢复分数、听音乐的反应，满 3 次后和你自己平时比较；回看页有「查看报告」；冥想页新增呼吸引导（共振呼吸，每分钟 4.5–7 次可选），结束后算出心率随呼吸的起伏和同步度",
+  "version": "0.6.0",
+  "tag": "v0.6.0",
+  "published": "2026-11-27T05:31:02-08:00",
+  "notes": "新增「个人」页：解锁进度、个人基线（同一种段落的平均值和波动）、个人模型（用生理数据预测你的自评，交叉验证后如实报告）；意念开关新增想法训练（心算对放空，约 7 分钟），只用你自己的数据训练分类器，准确率达到 75% 后可以用想法控制开关；回看里满 5 次同类录制后会提示「比你平时高/低」；趋势页可以看冥想平静占比、呼吸同步度和测评指标",
   "launcher": 1,
   "package": {
-    "path": "releases/neurobench-0.5.0.zip",
-    "sha256": "b722c93450aaf5b2333eb98d8f8caf68c21a1e5df3ecaf81b59dd3cce95abf50",
-    "size": 154695
+    "path": "releases/neurobench-0.6.0.zip",
+    "sha256": "19d1e5e87f1f585c8fa44fdd8938a8e9154c92cebe6239c3ff66b6124f1c6d56",
+    "size": 166165
   },
   "installer": {
-    "path": "releases/NeuroBench_v0.5.0.zip",
-    "sha256": "a9b6d2a15c8596acc28489f9f5642a38d932fe7ce77684f1074d7f76c813870c"
+    "path": "releases/NeuroBench_v0.6.0.zip",
+    "sha256": "a17ec232a1857fcb4bc2679105c27e969fe1279491c5b4d0153da9173eaaffd6"
   },
   "requirements_sha256": "4fc812cd127b258d52aae998991bc15780ab7e9ca94461b6bed755f109dc2b64"
 }
