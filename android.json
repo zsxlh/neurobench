@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "versionCode": 1,
+  "notes": "首个安卓版：连接 Muse S Athena，实时看贴合、波形、频段、心率；和电脑版相同的录制方案与标记，关屏后台继续录；分享或自动上传到私有仓库",
+  "published": "2026-11-27T18:35:33-08:00",
+  "sha256": "b7aa2eb0e5d5614b35930f680d89bf20eb3ca0f6ae804925011b57c7450e326b",
+  "size": 2065279,
+  "cert_sha256": "684907713668d458c9c95c2d8d5231d4fa407652c1b01b01589769bc0e77071a",
+  "build_run": "https://github.com/zsxlh/neurobench-android/actions/runs/46098271205",
+  "apk_urls": [
+    "https://raw.githubusercontent.com/zsxlh/neurobench/main/releases/android/NeuroBench-android-0.1.0.apk",
+    "https://cdn.jsdelivr.net/gh/zsxlh/neurobench@main/releases/android/NeuroBench-android-0.1.0.apk"
+  ]
+}
